@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amberkapoor
-- 👀 I’m interested in UX Designer and **Web Development** roles
-- 🌱 I’m currently learning Reactjs,Bootstrap,Nodejs
-- I’m looking to collaborate with Developers to learn more
+- 👀 I’m interested in **Web Development** roles and UX Designer
+- I’m looking to collaborate with Developers to learn more web development
 - 📫 How to reach me kprabr@gmail.com
 - Check my [Portfolio](https://kapoorportfolio.webflow.io)
 
