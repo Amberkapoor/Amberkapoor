@@ -1,7 +1,7 @@
 - ➡️Hi <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m @Amberkapoor
-- 👀 I’m interested in **Web Development** roles and UX Designer
+- 👀 I’m interested in **Web Development** roles and UX Designer.
 - 📜I create tech content, mostly about web development and Javascript.
-- 📓Check my [Portfolio](https://kapoorportfolio.webflow.io)
+- 📓Specialization in front-end development, which involves designing and implementing the user interface and user experience, or back-end development, which involves        working with databases and server-side components.
 ---
 
  🧰Toolbox
